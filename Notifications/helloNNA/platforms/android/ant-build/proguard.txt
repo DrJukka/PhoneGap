@@ -1,0 +1,21 @@
+# view AndroidManifest.xml #generated:36
+-keep class com.drjukka.helloNNA.GCMIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.drjukka.helloNNA.PushIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.drjukka.helloNNA.helloNNA { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.nokia.push.PushBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:22
+-keep class com.plugin.gcm.CordovaGCMBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.plugin.gcm.GCMIntentService { <init>(...); }
+
+# view AndroidManifest.xml #generated:21
+-keep class com.plugin.gcm.PushHandlerActivity { <init>(...); }
+
